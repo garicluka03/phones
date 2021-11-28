@@ -25,9 +25,9 @@ const Body = ({alllData}) => {
         <div>
             
                 <Routes>
-                    <Route path="/" element={<StyledApp alllData={alllData}/>}/> 
-                    <Route path="/android" element={<StyledApp alllData={forAndroid}/>}/> 
-                    <Route path="/ios" element={<StyledApp alllData={forIos}/>}/> 
+                    <Route path="/phones/" element={<StyledApp alllData={alllData}/>}/> 
+                    <Route path="/phones/android" element={<StyledApp alllData={forAndroid}/>}/> 
+                    <Route path="/phones/ios" element={<StyledApp alllData={forIos}/>}/> 
                 </Routes>
               
         </div>

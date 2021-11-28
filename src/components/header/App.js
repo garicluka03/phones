@@ -11,13 +11,13 @@ const App = ({className}) => {
 
             
                 
-                <Link className="link" to="/">
+                <Link className="link" to="/phones/">
                     all
                 </Link>
-                <Link className="link" to="/android">
+                <Link className="link" to="/phones/android">
                     android
                 </Link>
-                <Link className="link" to="/ios">
+                <Link className="link" to="/phones/ios">
                     ios
                 </Link>
                 
