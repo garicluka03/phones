@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/phones/static/js/main.6180772b.chunk.js",
+    "main.js.map": "/phones/static/js/main.6180772b.chunk.js.map",
+    "runtime-main.js": "/phones/static/js/runtime-main.b8d75d69.js",
+    "runtime-main.js.map": "/phones/static/js/runtime-main.b8d75d69.js.map",
+    "static/js/2.6dc44b52.chunk.js": "/phones/static/js/2.6dc44b52.chunk.js",
+    "static/js/2.6dc44b52.chunk.js.map": "/phones/static/js/2.6dc44b52.chunk.js.map",
+    "index.html": "/phones/index.html",
+    "static/js/2.6dc44b52.chunk.js.LICENSE.txt": "/phones/static/js/2.6dc44b52.chunk.js.LICENSE.txt",
+    "static/media/Huawei-Mate-30.f4abb30e.jpg": "/phones/static/media/Huawei-Mate-30.f4abb30e.jpg",
+    "static/media/OnePlus-9-Pro.8ecd95ec.jpg": "/phones/static/media/OnePlus-9-Pro.8ecd95ec.jpg",
+    "static/media/Samsung-Galaxy-A03s.1659ec6a.jpg": "/phones/static/media/Samsung-Galaxy-A03s.1659ec6a.jpg",
+    "static/media/Samsung-Galaxy-A52s.ba3a02b8.jpg": "/phones/static/media/Samsung-Galaxy-A52s.ba3a02b8.jpg",
+    "static/media/Samsung-Galaxy-S21.16e96280.jpg": "/phones/static/media/Samsung-Galaxy-S21.16e96280.jpg",
+    "static/media/a32.8dd8c3a0.jpg": "/phones/static/media/a32.8dd8c3a0.jpg",
+    "static/media/apple-iphone-13.2914663e.jpg": "/phones/static/media/apple-iphone-13.2914663e.jpg",
+    "static/media/edge.82155a22.jpg": "/phones/static/media/edge.82155a22.jpg",
+    "static/media/f3.6cd8922a.jpg": "/phones/static/media/f3.6cd8922a.jpg",
+    "static/media/gt_master.271a0fd3.jpg": "/phones/static/media/gt_master.271a0fd3.jpg",
+    "static/media/honor_50.7bf0c46b.jpg": "/phones/static/media/honor_50.7bf0c46b.jpg",
+    "static/media/iphone_13_pro_max.5254bcde.jpg": "/phones/static/media/iphone_13_pro_max.5254bcde.jpg",
+    "static/media/oneplus_nord.45c46f53.jpg": "/phones/static/media/oneplus_nord.45c46f53.jpg",
+    "static/media/pixel_6.08695aac.jpg": "/phones/static/media/pixel_6.08695aac.jpg",
+    "static/media/se.d9987c8d.jpg": "/phones/static/media/se.d9987c8d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8d75d69.js",
+    "static/js/2.6dc44b52.chunk.js",
+    "static/js/main.6180772b.chunk.js"
+  ]
+}
